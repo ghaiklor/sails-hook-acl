@@ -1,0 +1,16 @@
+{
+  "name": "sails-hook-acl",
+  "version": "0.1.0",
+  "description": "Sails hook that implements ACL that don&#39;t tight with session or databases and easy configurable&#34;",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "ghaiklor",
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "istanbul": "*",
+    "mocha": "*"
+  }
+}
