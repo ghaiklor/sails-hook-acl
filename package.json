@@ -14,6 +14,9 @@
     "mocha": "*"
   },
   "dependencies": {
-    "lodash": "^3.10.1"
+    "acl": "^0.4.8",
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.0.42"
   }
 }
