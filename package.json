@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "acl": "^0.4.8",
-    "bluebird": "^2.9.34",
-    "lodash": "^3.10.1",
+    "bluebird": "^3.4.6",
+    "lodash": "^4.17.2",
     "mongodb": "^2.0.42"
   }
 }
